@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: Parallels Desktop 16
+title: Parallels Desktop 16 完美解决无法联网
 cate1: Basis
 cate2: OS
 description: "Parallels Desktop 16 完美解决无法联网，无法连接USB"
@@ -11,7 +11,7 @@ keywords: Mac
 
 我们将要修改如下两个文件
 
-![img](https://cdn.nlark.com/yuque/0/2021/png/2414512/1631610149820-8fec0933-bb54-4ed9-a53b-a5176b9ef7d0.png)
+![img](/images/wiki/Parallels Desktop 16.png)
 
 在 dispatcher.desktop.xml 中找到 "<Usb>0</Usb>" ，替换为 "<Usb>1</Usb>"
 

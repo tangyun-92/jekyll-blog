@@ -41,7 +41,7 @@ performance可以获取到当前页面中与性能相关的信息，可以检测
 ```
 
 此时在控制台打印出如下信息：
-![array.png](https://github.com/tangyun-92/tangyun-92.github.io/blob/master/styles/images/blog/performace1.png?raw=true)
+![array.png](/images/posts/performance-2020.png)
 
 
 其中 memory 是和内存相关的，navigation 是指来源相关的，timing是关键点时间。
