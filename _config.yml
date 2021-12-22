@@ -5,9 +5,9 @@ baseurl:
 url: https://tangyun-92.github.io/
 date_format: "ordinal"
 title: 海布里
-subtitle: "岁月，你别催，该来的我不推，该还的还，该给的我给"
+subtitle: "岁月，你别催"
 description: "海布里的个人博客"
-keywords: 海布里, Tang Yun, tylogin, 前端, 程序员
+keywords: 海布里, Tang Yun, JavaScript, 前端, 程序员
 timezone: Asia/Chengdu
 encoding: "utf-8"
 repository: tangyun-92/tangyun-92.github.io
