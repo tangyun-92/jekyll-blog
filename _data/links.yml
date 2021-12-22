@@ -1,0 +1,7 @@
+- name: 码志
+  url: http://mazhuang.org
+  src: life
+
+- name: 百度
+  url: https://www.baidu.com/
+  src: www
