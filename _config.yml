@@ -175,7 +175,7 @@ google:
 # The article clicks #
 # ------------------ #
 leancloud:
-  enabled: true
+  enable: true
   app_id    : xedElFQAq91wcPuFzK2bpCTq-gzGzoHsz
   app_key   : oVDK9Nl1SEhkpI50U67NAsXP
   app_class : Test
