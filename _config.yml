@@ -176,6 +176,5 @@ google:
 # ------------------ #
 leancloud:
   enable: true
-  app_id    : xedElFQAq91wcPuFzK2bpCTq-gzGzoHsz
-  app_key   : oVDK9Nl1SEhkpI50U67NAsXP
-  app_class : Test
+  app_id: xedElFQAq91wcPuFzK2bpCTq-gzGzoHsz
+  app_key: oVDK9Nl1SEhkpI50U67NAsXP
