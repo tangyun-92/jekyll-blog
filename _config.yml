@@ -170,3 +170,12 @@ google:
         sidebar-detail: true 
         content_header: false
         content_footer: false
+
+# ------------------ #
+# The article clicks #
+# ------------------ #
+leancloud:
+  enabled: true
+  app_id    : xedElFQAq91wcPuFzK2bpCTq-gzGzoHsz
+  app_key   : oVDK9Nl1SEhkpI50U67NAsXP
+  app_class : Test
