@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "nodejs开发，使用ORM框架Sequelize"
-categories: [Node]
+categories: [Node, Sequelize]
 description: ""
 keywords: "Node, Sequelize"
 ---

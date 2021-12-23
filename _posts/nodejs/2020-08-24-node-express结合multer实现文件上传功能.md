@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "express结合multer实现文件上传功能"
-categories: [Node]
+categories: [Node, Express]
 description: ""
 keywords: "Node, express, multer"
 ---
