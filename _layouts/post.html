@@ -30,9 +30,6 @@ layout: default
             共 {{ page.content | strip_html | strip_newlines | remove: " " | size }} 字，约 {{ page.content | strip_html | strip_newlines | remove: " " | size | divided_by: 350 | plus: 1 }} 分钟
           </span>
           {% endif %}
-          {% if site.leancloud.enable %}
-            浏览量:&nbsp;<span id="{{ post.url }}" class="leancloud_visitors" data-flag-title="{{ post.title }}"> - </span>次
-          {% endif %}
         </div>
       </div>
     </div>
