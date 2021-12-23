@@ -31,7 +31,7 @@ layout: default
           </span>
           {% endif %}
           {% if site.leancloud.enable %}
-          浏览量:&nbsp;<span id="" class="leancloud_visitors" data-flag-title=""> - </span>次
+          浏览量:&nbsp;<span id="{{ post.url }}" class="leancloud_visitors" data-flag-title="{{ post.title }}"> - </span>次.
           {% endif %}
         </div>
       </div>
