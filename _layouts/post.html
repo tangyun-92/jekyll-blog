@@ -30,6 +30,9 @@ layout: default
             共 {{ page.content | strip_html | strip_newlines | remove: " " | size }} 字，约 {{ page.content | strip_html | strip_newlines | remove: " " | size | divided_by: 350 | plus: 1 }} 分钟
           </span>
           {% endif %}
+          <span id="busuanzi_container_page_pv" style="display:none">
+            阅读数：<span id="busuanzi_value_page_pv"></span>次
+          </span>
         </div>
       </div>
     </div>
